@@ -5,6 +5,9 @@ the project will be divided in in 5 missions :
 1.NETWORK MAPPING
 2.CREATION OF THE NETWORK STRUCTURE 
 3.SETTING THE NETWORK PARAMETERS
+4.NETWORK ADMINISTRATION
+5.SECURING THE NETWORK
+
 
 FR:Ce mini-projet a pour objectif de tester mes compétences en tant qu'administrateur réseau junior.
 
