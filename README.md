@@ -1,22 +1,31 @@
 # mini_company_project
-EN:this is a mini project that will test my capabilities as junior network  administrator.
-this project with consist with the creation , setting and administration of a hypothetical company "wowa_company"  
-the project will be divided in in 5 missions :
-1.NETWORK MAPPING
-2.CREATION OF THE NETWORK STRUCTURE 
-3.SETTING THE NETWORK PARAMETERS
-4.NETWORK ADMINISTRATION
-5.SECURING THE NETWORK
 
+## EN – Project Description
 
-FR:Ce mini-projet a pour objectif de tester mes compétences en tant qu'administrateur réseau junior.
+This mini-project aims to test my skills as a junior network administrator.
 
-Ce projet consistera en la création, la configuration et l'administration d'une entreprise fictive nommée « Wowa_Company ».
+The project will consist of creating, configuring, and administering a hypothetical company named **Wowa_Company**.
 
-Le projet sera divisé en 5 missions :
+The project will be divided into five missions:
 
-1. CARTOGRAPHIE DU RÉSEAU
-2. CRÉATION DE LA STRUCTURE DU RÉSEAU
-3. CONFIGURATION DES PARAMÈTRES DU RÉSEAU
-4. ADMINISTRATION DU RÉSEAU
-5. SÉCURISATION DU RÉSEAU
+1. **NETWORK MAPPING**
+2. **CREATION OF THE NETWORK STRUCTURE**
+3. **CONFIGURATION OF NETWORK PARAMETERS**
+4. **NETWORK ADMINISTRATION**
+5. **NETWORK SECURITY**
+
+---
+
+## FR – Présentation du projet
+
+Ce mini-projet a pour objectif de tester mes compétences en tant qu'administrateur réseau junior.
+
+Il consistera à créer, configurer et administrer une entreprise fictive nommée **Wowa_Company**.
+
+Le projet sera divisé en cinq missions :
+
+1. **CARTOGRAPHIE DU RÉSEAU**
+2. **CRÉATION DE LA STRUCTURE DU RÉSEAU**
+3. **CONFIGURATION DES PARAMÈTRES RÉSEAU**
+4. **ADMINISTRATION DU RÉSEAU**
+5. **SÉCURISATION DU RÉSEAU**
